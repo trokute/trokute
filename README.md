@@ -10,4 +10,4 @@ my code are lazily written and I'm not fluent at English, therefore please under
 
 I'm open to any assignments as long as I'm not busy, I can handle issues.
 
-if you would like to contact me, please mail e3unable@proton.me
+if you would like to contact me, please mail e3unable@proton.me or my discord if you have one: @trokute
