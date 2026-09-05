@@ -1,16 +1,13 @@
-## Hi there 👋
+i am a student at Indonesia with currently a little knowledge of computer science.
 
-<!--
-**trokute/trokute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been managing several projects across different language such as java, c, javascript, and rust.
 
-Here are some ideas to get you started:
+I started studying about those programming language late 2023 until a new law was enforced that causes my github account to be deleted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+in the freetime I would look forward to my other hobby such as 2d animation. I used to be an animator and a programmer at a indie game studio until we reached bankruptcy.
+
+my code are lazily written and I'm not fluent at English, therefore please understand my limitation.
+
+I'm open to any assignments as long as I'm not busy, I can handle issues.
+
+if you would like to contact me, please mail e3unable@proton.me
