@@ -2,7 +2,7 @@ i am a student at Indonesia with currently a little knowledge of computer scienc
 
 I've been managing several projects across different language such as java, c, javascript, and rust.
 
-I started studying about those programming language late 2023 until a new law was enforced that causes my github account to be deleted.
+I started studying about those programming language late 2023 until a new law was enforced that blocks domain that hasn't been signed a local license 
 
 in the freetime I would look forward to my other hobby such as 2d animation. I used to be an animator and a programmer at a indie game studio until we reached bankruptcy.
 
